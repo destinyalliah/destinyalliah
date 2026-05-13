@@ -19,3 +19,6 @@
 - Machine Learning/Data: scikit-learn, NumPy, regression modelling, supervised learning, model training
 - Libraries: json, os, sys, collections, itertools (Python)
 
+## Connect with me on Kaggle
+[My Profile](https://www.kaggle.com/destinyalliah)
+
