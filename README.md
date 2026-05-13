@@ -1,4 +1,4 @@
-## Hi, I'm Destiny :) 
+# Hi, I'm Destiny :) 
 
 ##About me
 - I'm a final year Computer Science student at the University of Leicester
