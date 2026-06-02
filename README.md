@@ -12,6 +12,7 @@
 2. [Titanic Survival Prediction](https://github.com/destinyalliah/titanic-survival-prediction)
 3. [Habit Tracker](https://github.com/destinyalliah/habit-tracker-fullstack)
 4. [LeetCode Solutions CI/CD & Dockerised Test Runner](https://github.com/destinyalliah/ci-cd-github-actions)
+5. [Agricultural AI Pipeline](https://github.com/destinyalliah/agricultural-ai-pipeline)
 
 ## Technical Skills 🛠
 - Languages: Python, Java, JavaScript, HTML, CSS, SQL
