@@ -15,7 +15,7 @@
 5. [Agricultural AI Pipeline](https://github.com/destinyalliah/agricultural-ai-pipeline)
 
 ## Technical Skills 🛠
-- Languages: Python, Java, JavaScript, HTML, CSS, SQL
+- Languages: Python, Java, JavaScript, HTML, CSS, SQL, PostgreSQL
 - Frameworks: React, Spring, Flask, JUnit
 - Developer Tools: Git, VS Code, IntelliJ, Eclipse, Jupyter Notebook
 - Machine Learning/Data: scikit-learn, NumPy, regression modelling, supervised learning, model training
