@@ -2,10 +2,7 @@
 
 ## About me 👩‍💻
 - Final year Computer Science student at the University of Leicester 
-- Specialise in AI through my completion of the optional module in the Foundations of AI
-- Currently working through Kaggle problems to improve my ML skills - really enjoying it!
-- Will be working at AgAnalyst in the summer, where I'll be using Claude AI specifically to process and standardise agricultural data for better analysis
-- Python Enthusiast
+- Currently interning at AgAnalyst in the summer, where I'll be using Claude AI and Python specifically to process and standardise agricultural data for better analysis
 
 ## Projects 💡
 1. [Leetcode Repository of Solutions](https://github.com/destinyalliah/leetcode-solutions)
