@@ -1,10 +1,10 @@
-# Hi, I'm Destiny 🧚🏽‍♀️ 
+# Hi, I'm Destiny 
 
-## About me 👩‍💻
+## About me
 - Final year Computer Science student at the University of Leicester 
 - Currently interning at AgAnalyst in the summer, where I'll be using Claude AI and Python specifically to process and standardise agricultural data for better analysis
 
-## Projects 💡
+## Projects
 1. [Leetcode Repository of Solutions](https://github.com/destinyalliah/leetcode-solutions)
 2. [Titanic Survival Prediction](https://github.com/destinyalliah/titanic-survival-prediction)
 3. [Habit Tracker](https://github.com/destinyalliah/habit-tracker-fullstack)
@@ -14,7 +14,7 @@
 7. [Market Tracker](https://github.com/destinyalliah/market-tracker)
 
 
-## Technical Skills 🛠
+## Technical Skills 
 - Languages: Python, Java, JavaScript, HTML, CSS, MySQL, PostgreSQL
 - Frameworks: React, Spring, Flask, JUnit
 - Developer Tools: Git, VS Code, IntelliJ, Eclipse, Jupyter Notebook
