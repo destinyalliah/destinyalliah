@@ -13,6 +13,7 @@
 6. [Credit Card Fraud Detection (Imbalanced ML)](https://github.com/destinyalliah/fraud-detection-imbalanced)
 7. [Market Tracker](https://github.com/destinyalliah/market-tracker)
 8. [Streaming Market Engine](https://github.com/destinyalliah/streaming-market-engine)
+9. [Tradesperson Quote Generator App](https://github.com/destinyalliah/quote-generator)
 
 ## Technical Skills 
 - Languages: Python, Java, JavaScript, HTML, CSS, MySQL, PostgreSQL
